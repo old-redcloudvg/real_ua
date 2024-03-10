@@ -2,6 +2,7 @@
 name = "real_ua"
 version = "0.1.0"
 edition = "2021"
+description = "generates random &'static str http user-agent"
 readme = "../README.md"
 license-file = "../LICENSE"
 repository = "https://github.com/redcloudvg/real_ua"
