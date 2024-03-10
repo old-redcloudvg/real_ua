@@ -1,0 +1,10 @@
+[package]
+name = "real_ua"
+version = "0.1.0"
+edition = "2021"
+readme = "../README.md"
+license-file = "../LICENSE"
+repository = "https://github.com/redcloudvg/real_ua"
+
+[dependencies]
+fastrand = "2"

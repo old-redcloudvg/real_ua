@@ -1,0 +1,3 @@
+[workspace]
+members = ["real_ua", "real_ua_cli"]
+resolver = "2"

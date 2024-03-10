@@ -1,0 +1,10 @@
+[package]
+name = "real_ua_cli"
+version = "0.1.0"
+edition = "2021"
+readme = "../README.md"
+license-file = "../LICENSE"
+description = "Generate random real user agents to stdout"
+
+[dependencies]
+real_ua = { path = "../real_ua" }
