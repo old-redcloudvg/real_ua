@@ -10,3 +10,7 @@ fn main() {
 ```
 
 It depends on [fastrand](https://github.com/smol-rs/fastrand) to select randomly a user-agent from a static list.
+
+## TODO
+
+* update user agents using GitHub workflow
